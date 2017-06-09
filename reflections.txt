@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+The bullets answer in order exactly the questions mentioned above.
+* No Special Skills except that I think that the strike element was depreciated and it would not work in newer browsers! But found it amazing that the newer browsers actually still support it even if it was a depreciated standard.
+* Converting the whole mockup to html was easy. Specifically converting the anchor and images into markup was assured. Font in pdf on some occasions render slightly different. I was unable to find out the reason behind it!
+* have already answered that question in 2nd question!
+* Well I am not a newbie (already have some familiarity with it) so this project was easier for me. 
